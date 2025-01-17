@@ -1,5 +1,12 @@
 <html lang="en">
 <head>
+    <!-- SEO Metadata -->
+<meta name="description" content="Official website for AROI TNPY 2024 Conference. Join us to explore advancements in radiation oncology through technology, compassion, and quality care.">
+<meta name="keywords" content="AROI TNPY 2024, Radiation Oncology Conference, Tamil Nadu, Pondicherry, Medical Conference, CMC Vellore, Workshops">
+<meta name="author" content="AROI TNPY 2024">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="index, follow">
+<title>AROI TNPY 2024 - Radiation Oncology Conference</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AROI TNPY 2024</title>
