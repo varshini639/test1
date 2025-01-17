@@ -4,14 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AROI TNPY 2024</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <style>
-        body {
-            font-family: 'Roboto', sans-serif;
+        /* General styles */
+        * {
             margin: 0;
             padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Roboto', sans-serif;
             background-color: #f5f5f5;
             color: #333;
+            line-height: 1.6;
         }
         header {
             background: linear-gradient(to right, #0062cc, #004a99);
@@ -30,6 +34,9 @@
             background: #004a99;
             color: #fff;
             padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
         }
         nav ul {
             list-style: none;
@@ -97,12 +104,10 @@
         </ul>
     </nav>
     <div class="container">
-        <!-- About Section -->
         <div id="about" class="section">
             <h2>About the Conference</h2>
             <p>The 39th AROI Tamil Nadu and Pondicherry Chapter Conference will be held on September 20-21, 2024, at Christian Medical College, Vellore. The conference will explore advancements in radiation oncology under the theme "Transforming Radiation Oncology: Embracing Compassion, Technology, and Quality Care."</p>
         </div>
-        <!-- Workshops Section -->
         <div id="workshops" class="section">
             <h2>Pre-Conference Workshops</h2>
             <div class="workshop">
@@ -116,25 +121,9 @@
                 <p>Learn advanced plan evaluation techniques for high-precision radiation therapy. This workshop provides in-depth insights into optimizing treatment plans for common cancer types, guided by expert faculty.</p>
             </div>
         </div>
-        <!-- Registration Section -->
-        <div id="registration" class="section">
-            <h2>Registration Fees</h2>
-            <p>Find detailed fee structures and payment methods in our registration section.</p>
-            <p><strong>Note:</strong> 18% GST applies to all registration fees.</p>
-        </div>
-        <!-- Guests Section -->
-        <div id="guests" class="section">
-            <h2>Our Esteemed Guests</h2>
-            <p>Details about the organizing committee and guest speakers will be shared soon!</p>
-        </div>
-        <!-- Contact Section -->
-        <div id="contact" class="section">
-            <h2>Contact Us</h2>
-            <p>Email: <a href="mailto:aroitnpy2024@cmcvellore.ac.in">aroitnpy2024@cmcvellore.ac.in</a></p>
-        </div>
     </div>
     <footer>
-        <p>&copy; 2024 AROI TNPY </a></p>
+        <p>&copy; 2024 AROI TNPY. Designed with care.</p>
     </footer>
 </body>
 </html>
