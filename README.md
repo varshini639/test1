@@ -134,7 +134,7 @@
         </div>
     </div>
     <footer>
-        <p>&copy; 2024 AROI TNPY | Designed with inspiration from <a href="https://ssn.edu.in/" target="_blank">SSN.edu.in</a></p>
+        <p>&copy; 2024 AROI TNPY </a></p>
     </footer>
 </body>
 </html>
